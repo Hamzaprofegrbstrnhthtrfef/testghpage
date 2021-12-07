@@ -1,0 +1,45 @@
+﻿body {
+    background: url("../img/background.jpg") fixed no-repeat top left;
+    background-size: 100% 100%;
+}
+   
+    
+
+    h1 {
+    font-family:'permanent_markerregular';   
+    font-size:20pt;
+    color:blue ;    
+}
+    #navigation {
+    width: 100%;
+}
+    
+#navigation ul {
+    list-style-type: none;
+    display: flex;
+    justify-content : space-around;
+}
+#navigation a {
+    text-decoration:none;
+    color:black ;
+}
+     
+      #contenu{
+          display:flex;
+          flex-direction:row;
+          background-color:silver;
+          }
+      #contenu p{
+          font-size:20px;
+          padding-right:8 px;
+
+      }
+
+       
+
+
+ 
+}
+
+
+
